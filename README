@@ -1,0 +1,6 @@
+#To create a new react app use:
+npx create-react-app <name-of-app> --use-npm
+
+#To run the app locally:
+npm start
+

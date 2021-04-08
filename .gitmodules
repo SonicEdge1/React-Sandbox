@@ -1,0 +1,12 @@
+[submodule "basic-routing"]
+	path = basic-routing
+	url = ./basic-routing/
+[submodule "forms-in-react"]
+	path = forms-in-react
+	url = ./forms-in-react/
+[submodule "learning-states"]
+	path = learning-states
+	url = ./learning-states/
+[submodule "my-react-app"]
+	path = my-react-app
+	url = ./my-react-app/
